@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **iviuzbek@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I'm serious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
