@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align='center'>
-	Hola Amigos 👋 💻
+	Hi guys 👋 💻
 </h1>
 <h2 align='center' style="color:purple">
-	You have reached the archive of Sai Sridhar Akula 👨‍💻
+	You have reached the archive of Leader Islombek 👨‍💻
 </h2>
 <h5 align='center'>
-	<p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2344D81D&amp;lines=Fullstack+and+App+Developer;Python+and+Fullstack+Developer;App+Dev+and+Python+Developer" alt="Typing SVG"></a></p>
+	<p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2344D81D&amp;lines=Fullstack;Python+and+Fullstack+Developer;Python+Developer" alt="Typing SVG"></a></p>
 </h5>
 
 <div align="center">
