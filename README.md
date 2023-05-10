@@ -67,6 +67,3 @@
 	<img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> 
 </div>
 
-<div align="center">
-    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
