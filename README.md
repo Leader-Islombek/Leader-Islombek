@@ -14,23 +14,23 @@
 
 <div align="center">
 	<h3 style="color:#b07e33""> Connect with Me! 😄📮:</h3>
-	<a href="https://github.com/SaiSridhar783"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"/> 
-	<a href="https://www.linkedin.com/in/akula-sai-sridhar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-	<a href="mailto:sridhar.akula001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-	<a href="https://www.facebook.com/ShadowKiller783/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /></a> 
-	<a href="https://twitter.com/ShadowKiller783"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /></a>
-	<a href="https://www.instagram.com/redhot_deadshot/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
+	<a href="https://github.com/Leader-Islombek"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"/> 
+	<a href="https://www.linkedin.com/in/islombek-leader-8a9b09275/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+	<a href="mailto:leader.islombek@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+	<a href="https://www.facebook.com/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /></a> 
+	<a href="https://twitter.com/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /></a>
+	<a href="https://www.instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
 </div>
 <br />
 
 <div align="center">
-	<p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=SaiSridhar783&amp;theme=dark&amp;fire=DD2727&amp;currStreakNum=DD2727&amp;stroke=2C56DD&amp;hide_border=true&amp;sideNums=8BDD10&amp;dates=918F6E" alt="GitHub Streak" width="360"></a>
-		<img src="https://github-readme-stats.vercel.app/api?username=saisridhar783&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" alt="Nox&#39;s github stats" width="360">
+	<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Leader-Islombek&theme=dark&hide_border=true&border_radius=4&card_width=600" alt="GitHub Streak" width="360"></a>
+		<img src="https://github-readme-stats.vercel.app/api?username=Leader-Islombek&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" alt="Nox&#39;s github stats" width="360">
 	</p>
 </div>
 <div align="center">
 	<h2 id="other-profiles" style="color:#b07e33">Other Profiles</h2>
-	<p><a href="https://www.hackerrank.com/SaiSridhar783"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> <a href="https://www.hackerearth.com/@sridhar.akula001"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a></p>
+	<p><a href="https://www.hackerrank.com/"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> <a href="https://www.hackerearth.com/@Leader-Islombek"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a></p>
 </div>
 <div align="center">
 	<h1 id="my-tech-stack-" style="color:#b07e33"">My Tech Stack 🔭:</h1>
