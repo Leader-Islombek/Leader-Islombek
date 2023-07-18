@@ -7,6 +7,7 @@
 
 
 
+
 <h5 align='center'>
 	<p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2344D81D&amp;lines=Fullstack;Python+and+Fullstack+Developer;Python+Developer" alt="Typing SVG"></a></p>
 </h5>
